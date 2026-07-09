@@ -1,0 +1,32 @@
+SIVTM/
+│
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── SIVTM_CONTEXT.md
+│
+├── docs/
+│   ├── 00_Proyecto/
+│   ├── 01_Modelo_Dominio/
+│   ├── 02_Modelo_Normativo/
+│   ├── 03_Arquitectura/
+│   ├── 04_Base_Datos/
+│   ├── 05_SIG/
+│   ├── 06_IA/
+│   ├── 07_API/
+│   ├── 08_Portal_Profesional/
+│   ├── 09_Portal_Municipal/
+│   ├── 10_Implementacion/
+│   └── 99_Sesiones/
+│
+├── data/
+│   ├── normativa/
+│   ├── catastro/
+│   ├── ejemplos/
+│   └── pruebas/
+│
+├── src/
+│
+├── tests/
+│
+└── tools/
