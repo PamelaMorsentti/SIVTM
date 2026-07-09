@@ -1,32 +1,61 @@
-SIVTM/
+SIVTM
 │
 ├── README.md
 ├── LICENSE
 ├── CHANGELOG.md
 ├── SIVTM_CONTEXT.md
 │
-├── docs/
-│   ├── 00_Proyecto/
-│   ├── 01_Modelo_Dominio/
-│   ├── 02_Modelo_Normativo/
-│   ├── 03_Arquitectura/
-│   ├── 04_Base_Datos/
-│   ├── 05_SIG/
-│   ├── 06_IA/
-│   ├── 07_API/
-│   ├── 08_Portal_Profesional/
-│   ├── 09_Portal_Municipal/
-│   ├── 10_Implementacion/
-│   └── 99_Sesiones/
+├── docs
+│   │
+│   ├── 00_Proyecto
+│   │      ProyectoMaestro.md
+│   │      Vision.md
+│   │      Principios.md
+│   │      Roadmap.md
+│   │      RegistroDecisiones.md
+│   │      HistoriaProyecto.md
+│   │      Glosario.md
+│   │
+│   ├── 01_ModeloDominio
+│   │      ModeloExpediente.md
+│   │      ModeloInmueble.md
+│   │      ModeloPersonas.md
+│   │      ModeloProyecto.md
+│   │      ModeloDocumentos.md
+│   │      ModeloPlanos.md
+│   │      ModeloObjetos.md
+│   │      ModeloRelaciones.md
+│   │
+│   ├── 02_ModeloNormativo
+│   │      ModeloNormativo.md
+│   │      BibliotecaNormativa.md
+│   │      MotorReglas.md
+│   │      MotorEvidencias.md
+│   │      MotorChecklists.md
+│   │      RepositorioConocimiento.md
+│   │
+│   ├── 03_Arquitectura
+│   │      ArquitecturaGeneral.md
+│   │      ArquitecturaSoftware.md
+│   │      ArquitecturaDatos.md
+│   │      ArquitecturaIA.md
+│   │
+│   ├── 04_SIG
+│   │      ModeloTerritorial.md
+│   │      Catastro.md
+│   │      PlanoWeb.md
+│   │
+│   ├── 05_Protocolos
+│   │      PresentacionDigital.md
+│   │      NormaCapasCAD.md
+│   │      PDFs.md
+│   │      IntercambioDatos.md
+│   │
+│   ├── 06_CasosUso
+│   │
+│   └── 99_Sesiones
 │
-├── data/
-│   ├── normativa/
-│   ├── catastro/
-│   ├── ejemplos/
-│   └── pruebas/
-│
-├── src/
-│
-├── tests/
-│
-└── tools/
+├── src
+├── tests
+├── data
+└── tools
